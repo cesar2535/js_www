@@ -1,2 +1,2 @@
-JS What, When, Where
+Community JS What, When, Where
 =====
