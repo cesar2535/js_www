@@ -1,0 +1,27 @@
+{
+  "name": "css_layout",
+  "version": "1.0.0",
+  "description": "Learn CSS Layout",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "css",
+    "layout",
+    "html"
+  ],
+  "author": "cesar2535",
+  "license": "ISC",
+  "devDependencies": {
+    "css-loader": "^0.15.6",
+    "gulp": "^3.9.0",
+    "less": "^2.5.1",
+    "less-loader": "^2.2.0",
+    "node-sass": "^3.2.0",
+    "sass-loader": "^2.0.0",
+    "style-loader": "^0.12.3",
+    "webpack": "^1.11.0",
+    "webpack-dev-server": "^1.10.1"
+  }
+}
